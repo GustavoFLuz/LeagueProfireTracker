@@ -19,7 +19,7 @@ A step by step series of examples that tell you how to get a development environ
 1. Install the prerequisites and clone de repository
 2. Through terminal write `npm install`
 3. Run `npm start`, it will run the application at http://localhost:3000/
-
+* To setup the API key you can do it through a .env file with VITE_API_KEY="YOUR_API_KEY" or through the app itself
 
 ## Built With
 
@@ -30,8 +30,8 @@ A step by step series of examples that tell you how to get a development environ
 ## Images
 
 <div style="display:flex;">
-    <img src="./assets/menu.png" alt="menu image" width="50%"/>
-    <img src="assets\championList.png" alt="champion list image" width="50%"/>
+    <img src="./assets/menu.png" alt="menu image" width="40%"/>
+    <img src="assets\championList.png" alt="champion list image" width="40%"/>
 </div>
 
 ## Authors
