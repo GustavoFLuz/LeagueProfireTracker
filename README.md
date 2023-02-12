@@ -27,10 +27,12 @@ A step by step series of examples that tell you how to get a development environ
 - [ReactJS](https://en.reactjs.org/) - The web framework used
 - [React Router](https://reactrouter.com/en/main) - Client side Routing tool for React
 
-### Images
+## Images
 
-[Menu Image](/assets/menu.png) 
-[Champion List Image](/assets/championList.png) 
+<div style="display:flex;">
+    <img src="./assets/menu.png" alt="menu image" width="50%"/>
+    <img src="assets\championList.png" alt="champion list image" width="50%"/>
+</div>
 
 ## Authors
 
